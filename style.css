@@ -1,0 +1,22 @@
+.uiItemClass {
+    background-color: rgb(241, 241, 241);
+}
+
+.spinner-border {
+    display: none;
+}
+
+#modalFeatures li {
+
+    font-weight: normal;
+    font-size: xx-small;
+    font-size-adjust: calc(2);
+}
+
+.btn-link {
+    color: crimson;
+}
+
+.btn-link :hover {
+    color: crimson;
+}
